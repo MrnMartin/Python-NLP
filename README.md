@@ -9,3 +9,10 @@ Plusieurs séries d'exercices progressifs.
 - Vérifier si un nombre est pair ou impair.
 - Boucle : Compter jusqu'à 10.
 - Créer une fonction qui renvoie le carré d'un nombre.
+
+## Manipulation de texte
+- Compter les mots d'un texte.
+- Compter les lettres "a" dans un texte.
+- Inverser un mot ou une phrase.
+- Remplacer un mot dans une phrase.
+- Trouver le mot le plus long dans une liste.
