@@ -16,3 +16,8 @@ Plusieurs séries d'exercices progressifs.
 - Inverser un mot ou une phrase.
 - Remplacer un mot dans une phrase.
 - Trouver le mot le plus long dans une liste.
+
+## Dictionnaire
+- Crée un dictionnaire et afficher une valeur
+- Compter les occurrences dans une liste
+- Petit jeu , Le Nombre Mystère
